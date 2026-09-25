@@ -7,30 +7,33 @@ My projects include deep-learning-based behavioral tracking, electrophysiology a
 
 ## Featured Projects
 
-### 👁️ DeepLabCut Eye Tracking & OKR Analysis
+### 👁️ [DeepLabCut Eye Tracking & OKR Analysis](https://github.com/mouse577/deeplabcut-okr-eye-tracking)
 
-Computer-vision pipeline for analyzing mouse eye movements and pupil dynamics from experimental video using **DeepLabCut and PyTorch**.
+Python tools for DeepLabCut model training, video analysis, tracking-quality review, and quantitative mouse eye and pupil measurements. The repository includes example output plots.
 
-**Methods:** pose estimation · deep learning · video analysis · behavioral quantification
+### 🧠 [Neural Waveform Analysis and Clustering](https://github.com/mouse577/Data_Science_Tasks)
 
-### 🧠 Neuropixels & Neural Data Analysis
+Jupyter notebooks for waveform analysis, PCA, k-means and hierarchical clustering, method comparison, and cluster characterization. This repository also contains other neuroscience and data-science explorations.
 
-Analysis pipelines for high-dimensional electrophysiology data, including **spike waveform analysis, PCA, k-means clustering, and hierarchical clustering**.
+### 📥 [Neuropixels Waveform Data Preparation](https://github.com/mouse577/neuropixels_analysis)
 
-**Methods:** dimensionality reduction · unsupervised learning · signal analysis · scientific visualization
+A focused notebook for importing, inspecting, visualizing, and cleaning waveform data before downstream analysis.
 
-### 🤖 Deep Reinforcement Learning
+### 📊 [MATLAB Neuroscience Analysis Scripts](https://github.com/mouse577/MATLAB_neuroscience_analysis_scripts)
 
-Implementation and evaluation of reinforcement-learning approaches using **PyTorch**, convolutional neural networks, and vision-based environments.
+MATLAB scripts for spike-waveform analysis and other neuroscience workflows, including CSD, GluSnFR, pERG, and VEP analyses.
 
-**Methods:** DQN · CNNs · reinforcement learning · model evaluation
+### 🧪 [MATLAB Neuropixels Clustering](https://github.com/mouse577/MATLAB_neuropixels_clustering)
 
-### 🗄️ Scientific Data & Research Tools
+Repository being prepared for the MATLAB Neuropixels clustering workflow. Code and documentation have not yet been added.
 
-Python and SQL tools for organizing, managing, and analyzing experimental research data.
+### 🤖 [Reinforcement Learning Projects](https://github.com/mouse577/AI_projects)
 
-**Methods:** Python · SQLite · data pipelines · GUI development
+PyTorch and notebook-based experiments in vision-based reinforcement learning.
 
+### 🗄️ [Research Database Tools](https://github.com/mouse577/renderSQLmouseDB)
+
+Python GUI and SQLite tools for managing research data.
 ## Technical Skills
 
 **Machine Learning & AI**
