@@ -23,9 +23,9 @@ A focused notebook for importing, inspecting, visualizing, and cleaning waveform
 
 MATLAB scripts for spike-waveform analysis and other neuroscience workflows, including CSD, GluSnFR, pERG, and VEP analyses.
 
-### 🧪 [MATLAB Neuropixels Clustering](https://github.com/mouse577/MATLAB_neuropixels_clustering)
+### 📈 [Neuronal Spike Waveform Clustering](https://github.com/mouse577/MATLAB_neuropixels_clustering)
 
-Repository being prepared for the MATLAB Neuropixels clustering workflow. Code and documentation have not yet been added.
+MATLAB and Python workflows for waveform attributes, k-means and Ward hierarchical clustering, PCA visualization, and per-cluster waveform plots. Includes example figures and a results slide deck.
 
 ### 🤖 [Reinforcement Learning Projects](https://github.com/mouse577/AI_projects)
 
