@@ -39,7 +39,7 @@ A focused Jupyter workflow for importing, inspecting, visualizing, and cleaning 
 
 PyTorch and notebook-based experiments in vision-based reinforcement learning.
 
-### 🗄️ [Research Database Tools](https://github.com/mouse577/renderSQLmouseDB)
+### 🗄️ [Research Database Tools](https://github.com/mouse577/MouseDatabase_working.git)
 
 Python GUI and SQLite tools for managing research data.
 ## Technical Skills
